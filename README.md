@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaSH147
 - 👀 I’m interested in Computer Science
-- 💞️ I’m looking to collaborate for an End-Study Internship
+- 💞️ I’m looking to collaborate for a Software Engineering Position
 - 📫 How to reach me : houssainiskallihajar99@gmail.com
 
 <!---
