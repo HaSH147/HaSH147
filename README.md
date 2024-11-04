@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HaSH147
-- 👀 I’m Computer Science Engineer
+- 👀 I’m a Computer Science Engineer
 -  I’m looking to collaborate for a Software Engineering Position
 - 📫 How to reach me : houssainiskallihajar99@gmail.com
 
